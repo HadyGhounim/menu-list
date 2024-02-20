@@ -1,0 +1,22 @@
+{
+    "burger": [
+    {
+        "id": "62fa",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "title": "Cheese Burger",
+        "price": "200"
+    },
+    {
+        "id": "8022",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "title": "eerr",
+        "price": "123"
+    },
+    {
+        "id": "ccca",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "title": "eer",
+        "price": "123"
+    }
+    ]
+}
