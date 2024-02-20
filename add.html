@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/data.css">
+    <title>Document</title>
+</head>
+<body>
+  <h2>Add Product</h2>
+  <form class="form">
+    <label>Image URL</label>
+    <input name="image" type="text" required id="img"><br>
+    <label>Product Name:</label>
+    <input name="title" type="text" required id="name"><br>
+    <label>Product Price:</label>
+    <input name="price" type="price" required id="price"><br>
+    <button type="submit" class="add">Add Product</button>
+  </form>
+  <div class="content">
+    <div id="data"></div>
+  </div>
+  <script src="data.js"></script>
+</body>
+</html>
